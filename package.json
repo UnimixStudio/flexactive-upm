@@ -1,0 +1,24 @@
+{
+  "name": "com.unimixstudio.flexactive",
+  "displayName": "Flex Active Controllers",
+  "version": "1.0.0",
+  "unity": "6000.2",
+  "description": "Набор компонентов для управления активным состоянием объектов и твин-анимаций на базе DOTween.",
+  "keywords": [
+    "flex",
+    "active",
+    "tween",
+    "dotween"
+  ],
+  "license": "MIT",
+  "documentationUrl": "https://github.com/UnimixStudio/flexactive-upm#readme",
+  "changelogUrl": "https://github.com/UnimixStudio/flexactive-upm/blob/main/CHANGELOG.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UnimixStudio/flexactive-upm.git"
+  },
+  "author": {
+    "name": "Unimix Studio",
+    "url": "https://unimix.studio"
+  }
+}
